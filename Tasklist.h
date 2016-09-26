@@ -26,5 +26,7 @@ How to compile for windows:
 
 /*
 ECLIPSE TIPS:
-- by default, the indexer doesn't use the GCC include paths: CDT BUILT IN COMPILER SETTINGS MINGW
+- by default, the indexer doesn't use the GCC include paths: CDT BUILT IN COMPILER SETTINGS MINGW + CDT BUILD IN COMPILER SETTINGS,
+- I also had to do Preferences -> C/C++ -> Indexer -> Use active build configuration
+- install llvm (or just clang-format), install plugin cppstyle, Preferences -> C/C++ -> CppStyle  enable format on save and specify binary location.
 */
