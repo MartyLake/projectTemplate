@@ -47,3 +47,16 @@ configuration -> switched from ninja makefile to mingw makefile solved it all
 - install llvm (or just clang-format), install plugin cppstyle, Preferences ->
 C/C++ -> CppStyle  enable format on save and specify binary location.
 */
+
+/* How to compile for CodeLite (not working atm)
+-settings: source code formatter options -> clang-format style FILE,
+clang-format path -> "clang-format" to use system clang-format
+- mkdir build && cd build
+- cmake -F "CodeLite - MinGW Makefiles .. -DCMAKE_BUILD_TYPE=Debug" -> repeat
+twice if the first time
+emits a warning
+- CodeLite -> File/Open/Workspace -> projectRootFolder/build/
+- errors during build: -j must take an argument, so I removed [space]0 with 8.
+now everything compiles
+- but I still get this error
+*/
