@@ -19,7 +19,8 @@ http://www.boost.org/doc/libs/1_53_0/libs/test/doc/html/utf/tutorials.html
  * wxwidget?
 https://wiki.wxwidgets.org/Eclipse,_CDT_%26_MingW_%26_MSYS_Setup_Guide
  * cegui + sfml https://github.com/SFML/SFML/wiki/Tutorial%3A-CEGUI-and-SFML
-
+//TODO add doorstop to manage dependencies
+http://doorstop.readthedocs.io/en/latest/
 */
 
 /*
