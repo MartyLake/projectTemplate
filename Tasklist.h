@@ -12,11 +12,11 @@ https://cmake.org/cmake-tutorial/
 http://www.boost.org/doc/libs/1_53_0/libs/test/doc/html/utf/tutorials.html
          //http://www.boost.org/doc/libs/1_62_0/libs/test/doc/html/boost_test/section_faq.html
 http://www.boost.org/doc/libs/1_62_0/libs/test/doc/html/boost_test/usage_variants.html#boost_test.usage_variants.single_header
-//TODO or add google test: http://www.kaizou.org/2014/11/gtest-cmake.html
-        // -> Add both packages as external CMake projects
-//TODO compile cute project -> install boost ?
+//DONE or add google test: http://www.kaizou.org/2014/11/gtest-cmake.html
 //TODO add lua hpp and lua sources
 //TODO add minimal test provine lua is available in the project
+//TODO add simple unit test that proves lua is functionning ()
+                 //-> tutorial http://www.kaizou.org/2014/11/gtest-cmake.html
 //TODO add graphic dependency:
  * cairo?
  * wxwidget?
