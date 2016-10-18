@@ -1,0 +1,4 @@
+namespace{
+constexpr auto VERSION_MAJOR = @VERSION_MAJOR@;
+constexpr auto VERSION_MINOR = @VERSION_MINOR@;
+}

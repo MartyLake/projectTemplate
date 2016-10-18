@@ -4,16 +4,19 @@
 /*
 // DONE add this task list to the eclipse project so it can be picked up by
 the tasklist
-//TODO Adding a Version Number and Configured Header File
+//DONE reference the cmake file in eclipse project for easier modification
+//DONE Adding a Version Number and Configured Header File
 https://cmake.org/cmake-tutorial/
-//TODO create cmake cpp project hello world https://cmake.org/cmake-tutorial/
-//TODO add boost test :
+//DONE create cmake cpp project hello world https://cmake.org/cmake-tutorial/
+//CANCEL too complicated. add boost test :
 http://www.boost.org/doc/libs/1_53_0/libs/test/doc/html/utf/tutorials.html
-//TODO or add google test: http://www.kaizou.org/2014/11/gtest-cmake/ ?
+         //http://www.boost.org/doc/libs/1_62_0/libs/test/doc/html/boost_test/section_faq.html
+http://www.boost.org/doc/libs/1_62_0/libs/test/doc/html/boost_test/usage_variants.html#boost_test.usage_variants.single_header
+//TODO or add google test: http://www.kaizou.org/2014/11/gtest-cmake.html
+        // -> Add both packages as external CMake projects
 //TODO compile cute project -> install boost ?
 //TODO add lua hpp and lua sources
 //TODO add minimal test provine lua is available in the project
-//TODO convert the project to cmake
 //TODO add graphic dependency:
  * cairo?
  * wxwidget?
