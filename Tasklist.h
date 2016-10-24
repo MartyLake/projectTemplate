@@ -13,15 +13,21 @@ http://www.boost.org/doc/libs/1_53_0/libs/test/doc/html/utf/tutorials.html
          //http://www.boost.org/doc/libs/1_62_0/libs/test/doc/html/boost_test/section_faq.html
 http://www.boost.org/doc/libs/1_62_0/libs/test/doc/html/boost_test/usage_variants.html#boost_test.usage_variants.single_header
 //DONE or add google test: http://www.kaizou.org/2014/11/gtest-cmake.html
-//TODO add lua hpp and lua sources
+
+//TODO add lua hpp and lua sources (sol2 cpp wrapper
+https://github.com/ThePhD/sol2)
+
 //TODO add minimal test provine lua is available in the project
+
 //TODO add simple unit test that proves lua is functionning ()
                  //-> tutorial http://www.kaizou.org/2014/11/gtest-cmake.html
+
 //TODO add graphic dependency:
  * cairo?
  * wxwidget?
 https://wiki.wxwidgets.org/Eclipse,_CDT_%26_MingW_%26_MSYS_Setup_Guide
  * cegui + sfml https://github.com/SFML/SFML/wiki/Tutorial%3A-CEGUI-and-SFML
+
 //TODO add doorstop to manage dependencies
 http://doorstop.readthedocs.io/en/latest/
 */
