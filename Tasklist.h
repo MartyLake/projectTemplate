@@ -14,6 +14,10 @@ http://www.boost.org/doc/libs/1_53_0/libs/test/doc/html/utf/tutorials.html
 http://www.boost.org/doc/libs/1_62_0/libs/test/doc/html/boost_test/usage_variants.html#boost_test.usage_variants.single_header
 //DONE or add google test: http://www.kaizou.org/2014/11/gtest-cmake.html
 
+//TODO add unit testing on every build
+//TODO add doxygen on every build
+//TODO add doorstop on every build
+
 //TODO add lua hpp and lua sources (sol2 cpp wrapper
 https://github.com/ThePhD/sol2)
 
